@@ -1,0 +1,5 @@
+
+
+('Nick', 'Nick@gmail.com', 'Laptop'), 40.00, 2026-04-20 16:18:25
+('Nick', 'nick@gmail.com', 'Laptop'), 40.00, 2026-04-20 16:35:40
+('Nick', 'Nick@gmail.com', 'Laptop'), 40.00, 2026-04-20 16:41:50
